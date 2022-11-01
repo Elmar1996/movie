@@ -131,6 +131,7 @@ function App(props) {
 
       <h1>Already watched:</h1>
       <WatchedMovies />
+      
     </div>
   );
 }
